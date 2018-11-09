@@ -1,0 +1,330 @@
+fileFormatVersion: 2
+guid: a75f68ede49874ca5972dc2ff5b16530
+timeCreated: 1526190938
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Blue 1
+    100002: Bottom Blue
+    100004: Button 1
+    100006: Button 2
+    100008: Button 3
+    100010: Button 4
+    100012: Button 5
+    100014: Button 6
+    100016: logo UP
+    100018: metal ss
+    100020: Plastic black_glossy
+    100022: Plastic_ black_ Mat
+    100024: screen 1
+    100026: screen 2
+    100028: //RootNode
+    100030: Stainless_steel
+    400000: Blue 1
+    400002: Bottom Blue
+    400004: Button 1
+    400006: Button 2
+    400008: Button 3
+    400010: Button 4
+    400012: Button 5
+    400014: Button 6
+    400016: logo UP
+    400018: metal ss
+    400020: Plastic black_glossy
+    400022: Plastic_ black_ Mat
+    400024: screen 1
+    400026: screen 2
+    400028: //RootNode
+    400030: Stainless_steel
+    2100000: Plastic_ black_ Mat baked
+    2100002: Bottom Blue baked
+    2100004: metal ss Baked
+    2100006: logo UP baked
+    2100008: Plastic black_glossy baked
+    2100010: Button 6 Baked
+    2100012: Button 5 baked
+    2100014: Button 4 baked
+    2100016: Button 2 Baked
+    2100018: Button 1 Baked
+    2100020: Stainless_steel Baked
+    2100022: Button 3 baked
+    2100024: Blue 1 baked
+    2100026: screen 2 Baked
+    2100028: screen 1 baked
+    2300000: Blue 1
+    2300002: Bottom Blue
+    2300004: Button 1
+    2300006: Button 2
+    2300008: Button 3
+    2300010: Button 4
+    2300012: Button 5
+    2300014: Button 6
+    2300016: logo UP
+    2300018: metal ss
+    2300020: Plastic black_glossy
+    2300022: Plastic_ black_ Mat
+    2300024: screen 1
+    2300026: screen 2
+    2300028: Stainless_steel
+    3300000: Blue 1
+    3300002: Bottom Blue
+    3300004: Button 1
+    3300006: Button 2
+    3300008: Button 3
+    3300010: Button 4
+    3300012: Button 5
+    3300014: Button 6
+    3300016: logo UP
+    3300018: metal ss
+    3300020: Plastic black_glossy
+    3300022: Plastic_ black_ Mat
+    3300024: screen 1
+    3300026: screen 2
+    3300028: Stainless_steel
+    4300000: Plastic_ black_ Mat
+    4300002: Bottom Blue
+    4300004: metal ss
+    4300006: logo UP
+    4300008: Plastic black_glossy
+    4300010: Button 6
+    4300012: Button 5
+    4300014: Button 4
+    4300016: Button 2
+    4300018: Button 1
+    4300020: Stainless_steel
+    4300022: Button 3
+    4300024: Blue 1
+    4300026: screen 2
+    4300028: screen 1
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue 1 baked
+    second: {fileID: 2100000, guid: 1f8517837b6dd8f4ebc463c1e53db6b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottom Blue baked
+    second: {fileID: 2100000, guid: 136e092782fc84a4baa4174221961902, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Button 1 Baked
+    second: {fileID: 2100000, guid: d8226978986533e49b44824d0609dd7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Button 2 Baked
+    second: {fileID: 2100000, guid: 97394c4e550148641a6fb8e617fef24b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Button 3 baked
+    second: {fileID: 2100000, guid: 360a75b7348456f44aef0941b8d4a4df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Button 4 baked
+    second: {fileID: 2100000, guid: cfcc04bf78b864a4e924760f6fe450db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Button 5 baked
+    second: {fileID: 2100000, guid: 0e10c7bc0e2a39846b86da486a0c3a90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Button 6 Baked
+    second: {fileID: 2100000, guid: ff77c40955e6582489b4a4b22e6becd4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic black_glossy baked
+    second: {fileID: 2100000, guid: 102081404db1a5b4cbdfed44b8579f7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic_ black_ Mat baked
+    second: {fileID: 2100000, guid: e2219244afd3bc94da182af3b43bb943, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stainless_steel Baked
+    second: {fileID: 2100000, guid: 01f46b0ef470c8944b699e14d923b362, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: logo UP baked
+    second: {fileID: 2100000, guid: 260b5d8c4e9da7c4a8d597fc4ce1ead6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal ss Baked
+    second: {fileID: 2100000, guid: d8ac3d1118c10ab4d9a9e46ff24522d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: screen 1 baked
+    second: {fileID: 2100000, guid: 044a38d51ed6ef544926a3e9302d5ff8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: screen 2 Baked
+    second: {fileID: 2100000, guid: 137c9416f22b9e942baf42e23e84b347, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Blue 1VRayCompleteMap
+    second: {fileID: 2800000, guid: 756d3570a6094e54a9a52f88fa929f2f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bottom BlueVRayCompleteMap
+    second: {fileID: 2800000, guid: 84ee8bde043608a4b9720be553d0bfc6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Button 1VRayCompleteMap
+    second: {fileID: 2800000, guid: c81c70af0024d7d47a87a6c9205f98cf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Button 2VRayCompleteMap
+    second: {fileID: 2800000, guid: bb53f01285a9a874daacb76bb15e13f7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Button 3VRayCompleteMap
+    second: {fileID: 2800000, guid: c560efc92179e584e86f5042043020e7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Button 4VRayCompleteMap
+    second: {fileID: 2800000, guid: 7dd93a1f6d55cd4409edbc74af88a37c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Button 5VRayCompleteMap
+    second: {fileID: 2800000, guid: 448d07e4b43e322459b1de1a59b5ff5e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Button 6VRayCompleteMap
+    second: {fileID: 2800000, guid: d5e4f6d4f7a2cd54d99cb6f32e1a0ac3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plastic black_glossyVRayCompleteMap
+    second: {fileID: 2800000, guid: d043539123e5b024f944adfdedc4537f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plastic_ black_ MatVRayCompleteMap
+    second: {fileID: 2800000, guid: b8670d7da16f0f24992554228bf2c541, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Stainless_steelVRayCompleteMap
+    second: {fileID: 2800000, guid: 9fd1dbebfe41ad74cbadba4551b37026, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: logo UPVRayCompleteMap
+    second: {fileID: 2800000, guid: 93f926d6e688f534380e0cd6b666a0b6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: metal ssVRayCompleteMap
+    second: {fileID: 2800000, guid: 0ce1fae04703b18469ed3b4f689162a2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: screen 1VRayCompleteMap
+    second: {fileID: 2800000, guid: 0dfe3f6d71f988541a11e69375070a04, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: screen 2VRayCompleteMap
+    second: {fileID: 2800000, guid: 71dfa260f34423d458bb4780d0bff7d5, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
